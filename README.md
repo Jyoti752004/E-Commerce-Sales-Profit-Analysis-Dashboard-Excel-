@@ -79,7 +79,7 @@ Full column and measure explanations are in [`DATA_DICTIONARY.md`](DATA_DICTIONA
 - Top 5 Customers
 - 6 insight call-outs along the bottom that summarise the main findings
 
-![E-Commerce Sales Dashboard](images/dashboard.png)
+![E-Commerce Sales Dashboard](images/Dashboard.png)
 
 *Dashboard preview: 6 KPI cards, 6 charts and 6 key-insight call-outs.*
 
